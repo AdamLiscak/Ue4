@@ -5,6 +5,11 @@ public class Car {
     private int wheels;
     private double speed;
 
+    public Car()
+    {
+
+    }
+
     public void setSpeed(double speed)
     {
         this.speed = speed;
